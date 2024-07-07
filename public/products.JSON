@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Messi Jerseys",
+    "description": "Rock your favorite Messi jerseys whether you're suiting up for soccer practice, playing with friends...",
+    "image": "./assests/productimages/backjersey.avif",
+    "hoverImage": "./assests/productimages/frontjersey.avif",
+    "link": "#",
+    "price": "₹2450 "
+  },
+  {
+    "id": 2,
+    "title": "Puma Lower",
+    "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "image": "./assests/productimages/Pumalower.jpg",
+    "hoverImage": "./assests/productimages/pumalowerHover.jpg",
+    "link": "#",
+    "price": "₹1800"
+  },
+  {
+    "id": 3,
+    "title": "Apple iPhone 15 Pro Max (256 GB) - Black Titanium ",
+    "description": "FORGED IN TITANIUM ADVANCED DISPLAY — The 6.7”..",
+    "image": "./assests/productimages/iphone.jpg",
+    "hoverImage": "./assests/productimages/iphoneback.jpg",
+    "link": "#",
+    "price": "₹1,55,999"
+  },
+  {
+    "id": 4,
+    "title": "Armani Exchange Analog  Men's Watch",
+    "description": "Some quick example text to build on the card title .",
+    "image": "./assests/productimages/watch.jpg",
+    "hoverImage": "./assests/productimages/watchHover.jpg",
+    "link": "#",
+    "price": "₹3000"
+  },
+  {
+    "id": 5,
+    "title": "Tatum 2 'Legacy' PF Basketball Shoes. Nike IN",
+    "description": "You know the legend of Jordan Brand and the lore of Boston. Jayson Tatum takes both legacies into the future...",
+    "image": "./assests/productimages/Tatum2PF.jpeg",
+    "hoverImage": "./assests/productimages/Tatum2PFHover.jpeg",
+    "link": "#",
+    "price": "₹3800"
+  },
+  {
+    "id": 6,
+    "title": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic",
+    "description": "Playback- It provides a massive battery backup of upto 15 hours for a superior playback time.",
+    "image": "./assests/productimages/boatheadphoneHoveer.jpg",
+    "hoverImage": "./assests/productimages/boatHeadphone.webp",
+    "link": "#",
+    "price": "₹1950"
+  },
+  {
+    "id": 7,
+    "title": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic",
+    "description": "Just like all the greats before him, it was written in the stars for Leo to be one of greatest...",
+    "image": "./assests/productimages/Destiny_Graphic_T-Shirt.webp",
+    "hoverImage": "./assests/productimages/Destiny_Graphic_T-Shirt_hover.webp",
+    "link": "#",
+    "price": "₹3400"
+  },
+  {
+    "id": 8,
+    "title": "X Crazyfast Messi Club",
+    "description": "Celebrate a football genius in the colours of his world champion team. The versatile outsole on these juniors' adidas boot is all about ...",
+    "image": "./assests/productimages/X_Crazyfast_Messi_Club.avif",
+    "hoverImage": "./assests/productimages/X_Crazyfast_Messi_Club_hover.avif",
+    "link": "#",
+    "price": "₹3999 "
+  }
+]
